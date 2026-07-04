@@ -4,9 +4,9 @@ A clean and minimal ToDo application built with **Flutter**. This app helps user
 
 ## 📱 Preview
 
-> Add a screenshot of the application here.
+> ### Screenshot. <br><br> <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/05fbef5a-13c6-4553-9f61-39513098e22b" />
 
-![ToDo App Screenshot](https://github.com/user-attachments/assets/9f7ee47e-2192-437e-a4d0-3c4308e0c266)
+
 
 
 ---
@@ -27,7 +27,7 @@ A clean and minimal ToDo application built with **Flutter**. This app helps user
 
 | Home Screen |
 |-------------|
-| ![Home](https://github.com/user-attachments/assets/9f7ee47e-2192-437e-a4d0-3c4308e0c266) |
+| <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/05fbef5a-13c6-4553-9f61-39513098e22b" /> |
 
 ---
 
